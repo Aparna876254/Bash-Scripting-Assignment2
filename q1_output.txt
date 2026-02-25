@@ -1,0 +1,14 @@
+[0;36m=======================================[0m
+[0;32m       System Information Display=[0m
+[0;36m========================================[0m
+Username         :[0m aparna
+Hostname         :[0m Aparna
+date and time    :[0m 2026-02-25 09:19:41
+OS               :[0m Linux
+Current Diectory :[0m /home/aparna/Desktop/assi2/aparna_bash_ass
+home directory   :[0m /home/aparna
+online user      :[0m 1
+UP time          :[0m up 11 hours, 1 minute
+Disk Usage       :[0m 18G/47G
+Memory Usage     :[0m 3.7Gi/3.8Gi
+[0;36m=======================================[0m

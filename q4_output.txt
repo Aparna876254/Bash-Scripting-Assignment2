@@ -1,0 +1,18 @@
+====AUTUMATED BACKUP SCRIPT====
+
+enter the directory to backup:.       
+enter bacjup destination :backups
+
+Backup type:
+1. Simple copy
+2. compressed archive (tar.gz)
+enter the choice:2
+
+Backup completed successfully!
+
+Backup details:
+File: backup _20260225093751.tar.gz
+Location: backups
+Size: 600K
+Time Taken: 0 seconds
+Backup Process completed

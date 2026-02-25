@@ -1,0 +1,24 @@
+==== LOG FILE ANALYSIS ====
+Log Files: access.log
+
+Total Entries: 7
+
+Unique IP Addresses:
+192.168.1.10
+192.168.1.20
+192.168.1.30
+192.168.1.40
+Total Unique IPs: 4
+
+Status Code Summary:
+200: 5 requests
+403: 1 requests
+404: 1 requests
+
+Most Frequently Accessed Page:
+      5 200
+
+Top 3 IP Addresses:
+      3 192.168.1.10
+      2 192.168.1.20
+      1 192.168.1.40

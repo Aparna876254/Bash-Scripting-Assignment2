@@ -35,7 +35,7 @@ awk -F: '{
 	if ($4 == "") {
 		count = 0
 	} else {
-		count = lenght(members)
+		count = length(members)
 	}
 	printf "%-20s Members: %d\n", $1, count
 }' /etc/group

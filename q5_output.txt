@@ -1,0 +1,164 @@
+==== USER ACCOUNT REPORT ====
+
+==== USER STATISTICS ====
+Total Users: 58
+System Users (UID < 1000): 56
+Regular Users (UID >= 1000): 56
+currently logged in: 1
+
+==== REGULAR USER DETAILS ====
+Username        UID      Home Directory            Shell          
+-----------------------------------
+nobody          65534    /nonexistent              /usr/sbin/nologin
+aparna          1000     /home/aparna              /usr/bin/zsh   
+
+====GROUP INFORMATION====
+root                 Members: 0
+daemon               Members: 0
+bin                  Members: 0
+sys                  Members: 0
+adm                  Members: 1
+tty                  Members: 0
+disk                 Members: 0
+lp                   Members: 0
+mail                 Members: 0
+news                 Members: 0
+uucp                 Members: 0
+man                  Members: 0
+proxy                Members: 0
+kmem                 Members: 0
+dialout              Members: 1
+fax                  Members: 0
+voice                Members: 0
+cdrom                Members: 1
+floppy               Members: 1
+tape                 Members: 0
+sudo                 Members: 1
+audio                Members: 2
+dip                  Members: 1
+www-data             Members: 0
+backup               Members: 0
+operator             Members: 0
+list                 Members: 0
+irc                  Members: 0
+src                  Members: 0
+shadow               Members: 0
+utmp                 Members: 0
+video                Members: 1
+sasl                 Members: 0
+plugdev              Members: 1
+staff                Members: 0
+games                Members: 0
+users                Members: 1
+nogroup              Members: 0
+systemd-journal      Members: 0
+systemd-network      Members: 0
+crontab              Members: 0
+input                Members: 0
+sgx                  Members: 0
+clock                Members: 0
+kvm                  Members: 0
+render               Members: 0
+netdev               Members: 1
+mysql                Members: 0
+scanner              Members: 2
+tss                  Members: 0
+systemd-timesync     Members: 0
+kismet               Members: 0
+_gophish             Members: 0
+messagebus           Members: 0
+tcpdump              Members: 0
+_ssh                 Members: 0
+ssl-cert             Members: 1
+redis                Members: 1
+i2c                  Members: 0
+plocate              Members: 0
+mosquitto            Members: 0
+redsocks             Members: 0
+stunnel4             Members: 1
+Debian-snmp          Members: 0
+bluetooth            Members: 1
+sslh                 Members: 0
+avahi                Members: 0
+_gvm                 Members: 0
+postgres             Members: 0
+lpadmin              Members: 1
+sambashare           Members: 0
+nm-openvpn           Members: 0
+inetsim              Members: 0
+pipewire             Members: 0
+wireshark            Members: 1
+nm-openconnect       Members: 0
+geoclue              Members: 0
+lightdm              Members: 0
+saned                Members: 0
+polkitd              Members: 0
+rtkit                Members: 0
+colord               Members: 0
+pcscd                Members: 0
+kali-trusted         Members: 0
+aparna               Members: 0
+kaboxer              Members: 1
+dhcpcd               Members: 0
+speech-dispatcher    Members: 0
+Debian-exim          Members: 0
+
+====SECURITY ALERT====
+Users with root Privileges (UID 0): 1
+root
+users without passwords:
+root
+daemon
+bin
+sys
+sync
+games
+man
+lp
+mail
+news
+uucp
+proxy
+www-data
+backup
+list
+irc
+_apt
+nobody
+dhcpcd
+mysql
+tss
+strongswan
+_gophish
+iodine
+tcpdump
+miredo
+_rpc
+redis
+mosquitto
+redsocks
+dnsmasq
+Debian-snmp
+sslh
+avahi
+speech-dispatcher
+_gvm
+postgres
+usbmux
+cups-pk-helper
+nm-openvpn
+inetsim
+geoclue
+lightdm
+statd
+saned
+rtkit
+Debian-exim
+
+Inactive Users(Never Logged In):
+lastlog command not available
+HTML report saved as user_report.html
+User: nobody
+Password expires					: never
+User: aparna
+Password expires					: never

@@ -1,0 +1,172 @@
+================================================
+         FILE AND DIRECTORY MANAGER             
+================================================
+1. List files in current directory 
+2. create a new directory
+3. create a new file
+4. delete a file
+5. rename a file
+6. search for a file
+7. count files and directories
+8. Exit
+file created successfully
+================================================
+         FILE AND DIRECTORY MANAGER             
+================================================
+1. List files in current directory 
+2. create a new directory
+3. create a new file
+4. delete a file
+5. rename a file
+6. search for a file
+7. count files and directories
+8. Exit
+file created successfully
+================================================
+         FILE AND DIRECTORY MANAGER             
+================================================
+1. List files in current directory 
+2. create a new directory
+3. create a new file
+4. delete a file
+5. rename a file
+6. search for a file
+7. count files and directories
+8. Exit
+file created successfully
+================================================
+         FILE AND DIRECTORY MANAGER             
+================================================
+1. List files in current directory 
+2. create a new directory
+3. create a new file
+4. delete a file
+5. rename a file
+6. search for a file
+7. count files and directories
+8. Exit
+total 60K
+-rw-rw-r-- 1 aparna aparna  398 Feb 24 17:46 access.log
+drwxrwxr-x 2 aparna aparna 4.0K Feb 25 03:45 backups
+-rw-rw-r-- 1 aparna aparna    0 Feb 25 09:24 madhu
+-rw-rw-r-- 1 aparna aparna    0 Feb 25 09:24 mumma
+-rw-rw-r-- 1 aparna aparna  570 Feb 25 09:19 q1_output.txt
+-rwxrwxr-x 1 aparna aparna 1.1K Feb 25 08:45 q1_system_info.sh
+-rwxrwxr-x 1 aparna aparna 1.8K Feb 25 08:34 q2_file_manager.sh
+-rw-rw-r-- 1 aparna aparna 1.4K Feb 25 09:24 q2_output.txt
+-rwxrwxr-x 1 aparna aparna  909 Feb 25 08:34 q3_log_analyzer.sh
+-rw-rw-r-- 1 aparna aparna   38 Feb 25 08:54 q3_output.txt
+-rwxrwxrwx 1 aparna aparna 1.2K Feb 25 03:41 q4_backup.sh
+-rw-rw-r-- 1 aparna aparna   74 Feb 25 08:54 q4_output.txt
+-rw-rw-r-- 1 aparna aparna 3.9K Feb 25 08:57 q5_output.txt
+-rwxrwxr-x 1 aparna aparna 2.1K Feb 25 08:57 q5_user_report.sh
+-rw-rw-r-- 1 aparna aparna  416 Feb 25 07:23 README.txt
+-rw-rw-r-- 1 aparna aparna    0 Feb 25 09:24 saniya
+drwxrwxr-x 2 aparna aparna 4.0K Feb 25 02:32 test_backup
+-rw-r--r-- 1 root   root    154 Feb 25 06:40 user_report.html
+================================================
+         FILE AND DIRECTORY MANAGER             
+================================================
+1. List files in current directory 
+2. create a new directory
+3. create a new file
+4. delete a file
+5. rename a file
+6. search for a file
+7. count files and directories
+8. Exit
+Directory created Successfully
+================================================
+         FILE AND DIRECTORY MANAGER             
+================================================
+1. List files in current directory 
+2. create a new directory
+3. create a new file
+4. delete a file
+5. rename a file
+6. search for a file
+7. count files and directories
+8. Exit
+file deleted successfully
+================================================
+         FILE AND DIRECTORY MANAGER             
+================================================
+1. List files in current directory 
+2. create a new directory
+3. create a new file
+4. delete a file
+5. rename a file
+6. search for a file
+7. count files and directories
+8. Exit
+File renamed successfully
+================================================
+         FILE AND DIRECTORY MANAGER             
+================================================
+1. List files in current directory 
+2. create a new directory
+3. create a new file
+4. delete a file
+5. rename a file
+6. search for a file
+7. count files and directories
+8. Exit
+./README.txt
+./q5_output.txt
+./test_backup/file2.txt
+./test_backup/file5.txt
+./test_backup/file1.txt
+./test_backup/file4.txt
+./test_backup/file3.txt
+./q3_output.txt
+./q4_output.txt
+./q2_output.txt
+./q1_output.txt
+================================================
+         FILE AND DIRECTORY MANAGER             
+================================================
+1. List files in current directory 
+2. create a new directory
+3. create a new file
+4. delete a file
+5. rename a file
+6. search for a file
+7. count files and directories
+8. Exit
+total files : 65
+total directory : 34
+================================================
+         FILE AND DIRECTORY MANAGER             
+================================================
+1. List files in current directory 
+2. create a new directory
+3. create a new file
+4. delete a file
+5. rename a file
+6. search for a file
+7. count files and directories
+8. Exit
+Exiting
+
+
+The input i gave in bash window for which the outputs were generated :
+
+Enter you choice : 3
+enter file name:saniya
+Enter you choice : 3
+enter file name:madhu
+Enter you choice : 3
+enter file name:mumma
+Enter you choice : 1
+Enter you choice : 2
+enter directory name :nopeee    
+Enter you choice : 4
+enter file name to be deletedsaniya
+are you sure you want to delete(y/n):y
+Enter you choice : 5
+enter old file name :mumma
+enter the new file name :daddy
+Enter you choice : 6
+enter the file name pattern (eg : *.txt):*.txt            
+Enter you choice : 7
+Enter you choice : 8
